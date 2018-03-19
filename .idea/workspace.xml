@@ -31,7 +31,11 @@
         <entry file="file://$PROJECT_DIR$/hello.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
+<<<<<<< HEAD
               <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+=======
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+>>>>>>> newBranch
               <folding />
             </state>
           </provider>
@@ -149,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521381706329</updated>
       <workItem from="1521381707729" duration="3195000" />
-      <workItem from="1521387592401" duration="3000" />
+      <workItem from="1521387592401" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="firstCommit">
       <created>1521381855474</created>
@@ -162,7 +166,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3219000" />
+=======
+    <option name="totallyTimeSpent" value="3876000" />
+>>>>>>> newBranch
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -271,6 +279,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_netrc">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
@@ -295,17 +304,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hello.txt">
+=======
+>>>>>>> newBranch
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="108">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_netrc">
+    <entry file="file://$PROJECT_DIR$/hello.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="54">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding />
         </state>
       </provider>
